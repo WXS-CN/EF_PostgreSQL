@@ -1,5 +1,7 @@
 # EF_PostgreSQL
 
-ASP.NET Core WebAPI
+.NET 6
+
 Entify Framework Core
+
 PostgreSQL
